@@ -4,3 +4,7 @@ A graphical app that tells you if two convex shape are colliding or not.
 to run this program you need to install sfml library.
 the link below is a guide of how to install the sfml library and how to run it in linux terminal.
 https://www.sfml-dev.org/tutorials/2.5/start-linux.php
+
+
+# Demo of collision detection for convex shape via this algorithm.
+![SAT_Collision_Detection_Algorithm](https://github.com/user-attachments/assets/1dae7741-23b2-4d18-8686-c18110990f54)
