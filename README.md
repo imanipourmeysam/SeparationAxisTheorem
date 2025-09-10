@@ -7,4 +7,4 @@ https://www.sfml-dev.org/tutorials/2.5/start-linux.php
 
 
 # Demo of collision detection for convex shape via this algorithm.
-![SAT_Collision_Detection_Algorithm](https://github.com/user-attachments/assets/1dae7741-23b2-4d18-8686-c18110990f54)
+![SAT_Collision_Detection_Algorithm_M](https://github.com/user-attachments/assets/0c64249b-6cf8-4808-ba9c-cf1248e586e0)
